@@ -2,6 +2,7 @@
 
 > Recherche approximative en ligne de commande.
 > Similaire à `sk`.
+> Voir aussi : `sk`.
 > Plus d'informations : <https://github.com/junegunn/fzf#usage>.
 
 - Lance `fzf` sur tous les fichiers du répertoire spécifié :
